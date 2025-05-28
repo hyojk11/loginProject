@@ -3,7 +3,6 @@ package me.hyo.loginproject.config.oauth;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 import me.hyo.loginproject.config.jwt.TokenProvider;
 import me.hyo.loginproject.domain.RefreshToken;
 import me.hyo.loginproject.domain.User;
